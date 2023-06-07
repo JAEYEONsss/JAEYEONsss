@@ -1,9 +1,11 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=JAEYEON's%20GitHub&descAlign=70.&descAlignY=44)
 
+<div align=center>
+
 ## 👉 Introduction 👈
-안녕하세요! API 개발과 클라우드에 관심이 많은 양재연입니다:)   
+안녕하세요! 백엔드 개발과 클라우드에 관심이 많은 양재연입니다:)   
 취미는 헬스, 영화보기입니다.
-     
+<br></br>
 
 ## 🖥 Used Tools & Skills ⚒
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon&logoColor=white"/>
@@ -19,9 +21,14 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=Mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+<br></br>
 
 ## What I Did 🧑‍💻
-[![JAEYEON's](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<br></br>
+<img src = "https://github.com/JAEYEONsss/JAEYEONsss/assets/87291052/e705c050-2eb7-4456-b144-ad502ac16388" width="300" height="300">
+
+</div>
+
 
   
 
